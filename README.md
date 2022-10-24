@@ -6,4 +6,4 @@ Currency exchange website
 
 https://przemekbiernat1998.github.io/Kantor/
 
-![image](https://i.ibb.co/BzKHWDr/readme.jpg )
+![image](https://i.ibb.co/qJYqDxC/ezgif-com-gif-maker.gif)
